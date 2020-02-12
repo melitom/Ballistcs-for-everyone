@@ -1,0 +1,151 @@
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Výpočet_koeficientu.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.config
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.pdb
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.xml
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.xml
+C:\Users\Tom\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.config
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Výpočet_koeficientu.resources
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Documents\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.pdb
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.config
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.pdb
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.xml
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Výpočet_koeficientu.resources
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.xml
+C:\Users\Tom\Desktop\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.config
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Výpočet_koeficientu.resources
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Desktop\Tom\Visual Studio 2017 záloha\source\repos\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.config
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.pdb
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Převody_jednotek.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Export_tabulky.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.exe.manifest
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\bin\Debug\Balistika pro každého.application
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.TrustInfo.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.exe.manifest
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Balistika pro každého.application
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Predvolby.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Derivace_střely.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_koeficientu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 záloha\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_dostrelu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Derivace_střely.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Export_tabulky.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Predvolby.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Převody_jednotek.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_dostrelu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_koeficientu.resources
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe.config
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe.manifest
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.application
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.pdb
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.TrustInfo.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.exe.manifest
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.application
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.exe
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.xml
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.pdb
+C:\Users\Ondra\Documents\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Klíč.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbprojAssemblyReference.cache
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Derivace_střely.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Export_tabulky.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Hlavní_okno.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vlastnosti_Atmosféry.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Klíč.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Resources.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Nápověda.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.O_programu.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Predvolby.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Převody_jednotek.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Seznam_střel.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_dostrelu.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější_balistika.Vypocet_koeficientu.resources
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.GenerateResource.cache
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Vnější balistika.vbproj.CoreCompileInputs.cache
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.exe
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.xml
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.pdb
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe.config
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe.manifest
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.application
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.exe
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.pdb
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\bin\Debug\Ballistics for everyone.xml
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.TrustInfo.xml
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.exe.manifest
+D:\Tom\Visual Studio 2017 EN\Vnější balistika\Vnější balistika\obj\Debug\Ballistics for everyone.application

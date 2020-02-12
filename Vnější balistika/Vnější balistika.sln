@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vnější balistika", "Vnější balistika\Vnější balistika.vbproj", "{8307148F-31D9-43FF-9CEB-1500693ABE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8307148F-31D9-43FF-9CEB-1500693ABE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8307148F-31D9-43FF-9CEB-1500693ABE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8307148F-31D9-43FF-9CEB-1500693ABE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8307148F-31D9-43FF-9CEB-1500693ABE76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681C7608-68F7-4AFD-9791-CA4BFAD580B6}
+	EndGlobalSection
+EndGlobal
